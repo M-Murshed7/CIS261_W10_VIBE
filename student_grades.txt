@@ -1,0 +1,4 @@
+name|id|test1|test2|test3|average|grade
+Bob Smith|S1002|78.00|85.00|75.00|79.33|C
+Jamie Smith|S1003|65.00|98.00|75.00|79.33|C
+Sue Johnson|12345|87.00|45.00|90.00|74.00|C
